@@ -1,3 +1,3 @@
 # ejerciciosProgramacion
 
-Resolución de ejercicios de la cursada de Programación y Laboratorio  I
+Resolución de ejercicios de la cursada de  Laboratorio  I comisióm J
