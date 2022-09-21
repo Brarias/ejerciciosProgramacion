@@ -24,11 +24,6 @@ int main(void) {
 	mostrarNumero(resultado);
 
 
-
-
-
-
-
 	return EXIT_SUCCESS;
 }
 
